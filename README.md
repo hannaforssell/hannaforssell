@@ -10,4 +10,4 @@ implement **SCSS** and use **current web development frameworks**. Other skills 
 know includes **testing my own code**, and **develop database-driven applications**.
 
 Want to find out more and contact me?<br>
-Go to my [LinkedIn site](https://www.linkedin.com/in/hanna-forssell-51a836222/).
+Go to my [LinkedIn page](https://www.linkedin.com/in/hanna-forssell-51a836222/).
